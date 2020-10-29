@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "My main GitHub page"
+description: "Here I will post the process on my main projects"
+show-downloads: "false"
+logo: "logo.jpg"
